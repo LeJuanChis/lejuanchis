@@ -24,8 +24,11 @@
 </div>
 <div align="center">
   
-## Stats:
+
 <p>
+  
+  ## Stats:
+  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeJuanChis&&show_icons=true&theme=cobalt"/>
 </p>
 <p>
