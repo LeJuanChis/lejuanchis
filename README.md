@@ -11,7 +11,7 @@
 
   
 ### Learning:
-  <img hight="300" width="500" alt="GIF" align="right" src="https://github.com/LeJuanChis/lejuanchis/blob/main/assets/gifs/toji-toji-fushiguro.gif" />
+  <img hight="300" width="400" alt="GIF" align="right" src="https://github.com/LeJuanChis/lejuanchis/blob/main/assets/gifs/toji-toji-fushiguro.gif" />
   <p align="left">
   ⭐Machine Learning 
   
