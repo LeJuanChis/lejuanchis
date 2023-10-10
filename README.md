@@ -25,7 +25,7 @@
 <div align="center">
   
 
-<p>
+<p align="center">
   
   ## Stats:
   
