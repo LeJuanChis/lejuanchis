@@ -7,7 +7,7 @@
 ## About me :🤙
 
 -I am 19 years old software developer who has been in love with this love since i was 16 years old. I am from Colombia
-<div align="center">
+<div>
 
   
 ### Learning:
