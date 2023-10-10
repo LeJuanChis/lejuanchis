@@ -29,10 +29,10 @@
   
   ## Stats:
   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeJuanChis&&show_icons=true&theme=cobalt"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LeJuanChis&&show_icons=true&theme=cobalt"/>
 </p>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeJuanChis&hide_progress=false"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeJuanChis&hide_progress=false"/>
 </p>
 </div>
 
