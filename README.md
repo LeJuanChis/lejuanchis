@@ -26,7 +26,7 @@ I am 19 years old software developer who has been in love with this love since i
 **Expand to view**
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=LeJuanChis&&show_icons=true&theme=cobalt" />
+  <img width="200" src="https://github-readme-stats.vercel.app/api?username=LeJuanChis&&show_icons=true&theme=cobalt" />
 </details>
 <details>
   <summary><b>⚡ Most Used Languages</b></summary>
