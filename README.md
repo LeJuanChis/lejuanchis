@@ -15,6 +15,7 @@ I am 19 years old software developer who has been in love with this love since i
   [![PHP](https://img.shields.io/badge/php-developer?logo=php&color=blue&style=for-the-badge&logoColor=white&label)]()
   [![JAVASCRIPT](https://img.shields.io/badge/javascript-developer?logo=javascript&color=yellow&style=for-the-badge&logoColor=white&label)]()
   [![DRUPAL](https://img.shields.io/badge/drupal-developer?logo=drupal&color=blue&style=for-the-badge&logoColor=white&label)]()
+  [![LARAVEL](https://img.shields.io/badge/laravel-developer?logo=laravel&color=blue&style=for-the-badge&logoColor=white&label)]()
   [![LINUX](https://img.shields.io/badge/linux-developer?logo=linux&color=purple&style=for-the-badge&logoColor=white&label)]()
   </br>
   [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
