@@ -6,7 +6,7 @@
 
 ## About me :🤙
 
-I am 19 years old software developer who has been in love with this love since i was 16 years old. I am from Colombia
+I am 20 years old software developer who has been in love with this love since i was 16 years old. I am from Colombia
   
 ### Technologies:
   <img hight="300" width="400" alt="GIF" align="right" src="https://github.com/LeJuanChis/lejuanchis/blob/main/assets/gifs/toji-toji-fushiguro.gif" />
