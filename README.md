@@ -19,7 +19,7 @@ I am 20 years old software developer who has been in love with this love since i
   [![LINUX](https://img.shields.io/badge/linux-developer?logo=linux&color=purple&style=for-the-badge&logoColor=white&label)]()
   </br>
   [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
-  [![DJANGO](https://img.shields.io/badge/django-developer?logo=django&color=darkgreen&style=for-the-badge&logoColor=white&label)]()
+  [![DJANGO](https://img.shields.io/badge/react-developer?logo=react&color=darkgreen&style=for-the-badge&logoColor=white&label)]()
 
 <p align="center">
   
